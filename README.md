@@ -10,3 +10,5 @@ In this case, please refer to any text files provided inside the mod of your cho
 
 For example for the Metal Pipes mod:
 ![Alt text](bruh.png)
+
+To remove mods: just validate steam files of the game and it will fix any of the modified files. Some files/folders will remain leftover from pieces that were added, however. 
