@@ -1,2 +1,7 @@
 To install this specific mod, the folder above will need to replace the "true_route" folder 
 that is inside the "scripts" folder
+
+This scene will replace the hangar scene in the 3rd playthrough/run.
+
+This mod is completely compatabile with Choccy Scarlet and Metal Pipes without any additional configuration.
+Installation order does not matter.
