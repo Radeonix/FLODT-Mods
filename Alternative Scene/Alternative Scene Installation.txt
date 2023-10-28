@@ -1,0 +1,2 @@
+To install this specific mod, the folder above will need to replace the "true_route" folder 
+that is inside the "scripts" folder
